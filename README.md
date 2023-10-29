@@ -1,9 +1,7 @@
 # Heart Disease Analysis with Python and Seaborn
 
-Link
-```
-https://colab.research.google.com/#scrollTo=MIma91dkHO0E&uniqifier=1
-```
+Link : https://colab.research.google.com/#scrollTo=MIma91dkHO0E&uniqifier=1
+
 This repository contains Python code for analyzing heart disease data using the Pandas library and visualizing the results with Seaborn. The code reads a CSV file containing heart disease data, performs data analysis and visualization, and creates various plots to gain insights into the dataset.
 
 ## Getting Started
