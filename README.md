@@ -10,7 +10,7 @@ This repository contains Python code for analyzing heart disease data using the 
 
 Before running the code, make sure you have the following Python packages installed:
 
-- IPython
+- Python
 - NumPy
 - Pandas
 - Seaborn
