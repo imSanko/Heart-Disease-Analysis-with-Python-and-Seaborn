@@ -52,4 +52,4 @@ python your_script_name.py
 Feel free to contribute to this project by opening issues or creating pull requests.
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is Licensed under the MIT License - see the LICENSE.md file for details.
