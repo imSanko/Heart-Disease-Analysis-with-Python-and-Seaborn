@@ -18,7 +18,7 @@ Before running the code, make sure you have the following Python packages instal
 You can install them using `pip`:
 
 ```bash
-pip install ipython numpy pandas seaborn
+pip install python numpy pandas seaborn
 ```
 # Data
 The code reads the heart disease data from a CSV file named heart.csv. Make sure you have this file in the same directory as the script.
