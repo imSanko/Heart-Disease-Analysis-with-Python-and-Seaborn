@@ -8,7 +8,7 @@ This repository contains Python code for analyzing heart disease data using the 
 
 ### Prerequisites
 
-Before running the code, make sure you have the following Python packages installed:
+# Before running the code, make sure you have the following Python packages installed:
 
 - Python
 - NumPy
