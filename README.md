@@ -1,4 +1,4 @@
-# Heart Disease Analysis with Python & Seaborn.
+# Heart Disease Analysis with Python & Seaborn:
 
 Link: https://colab.research.google.com/#scrollTo=MIma91dkHO0E&uniqifier=1
 
